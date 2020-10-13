@@ -1,5 +1,7 @@
 # LearnLive ReactJS Portfolio      
-
+<a>
+<img src= "resume_screenshot.png" width=800>
+</a></br>
 
 ## Description
 This is a personal resume website created using reactJS.
