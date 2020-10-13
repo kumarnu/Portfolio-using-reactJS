@@ -1,4 +1,5 @@
 # LearnLive ReactJS Portfolio      
+<img src="https://lh3.googleusercontent.com/GmKOTt-MLUwvFqnRnEjS2BstCgRNgzxLC2EQJkG5quVYzNbUb3hg3zvQX8upSQHhd9JT=s169" width=500>
 
 ## Description
 This is a personal resume website created using reactJS.
