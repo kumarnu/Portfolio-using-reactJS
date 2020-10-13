@@ -1,14 +1,7 @@
-# Clever Programmer ReactJS Portfolio Template      
-
-## 👇 WATCH THIS FIRST 👇
-## https://tinyurl.com/customizeReactPortfolio
-
-![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
-
-## <a href="https://compassionate-leakey-e9b16b.netlify.app/">LIVE DEMO</a>
+# LearnLive ReactJS Portfolio      
 
 ## Description
-This is a ReactJS based personal resume website template for participants of The 6 Figure JavaScript ReactJS Challenge by Clever 
+This is a personal resume website created using reactJS.
 
 ## Make it Your Own!
 #### PREREQUISITES:
@@ -16,8 +9,6 @@ This is a ReactJS based personal resume website template for participants of The
 - Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
 #### PROCEDURE:
 - Download the zip folder from Github and unzip it
-Here is the link to download zip 👉
-<a href='https://github.com/CleverProgrammers/react-portfolio'>HERE</a>
 - Open the folder in VS Code
 - Edit <code>public/resumeData.json</code> and add your personal details and projects
 - Open terminal in VS Code
@@ -36,8 +27,3 @@ Here is the link to download zip 👉
 HTML Design Template
 <a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
 
-Header photo credit
-<a href="https://unsplash.com/@mischievous_penguins?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Casey Horner</a>
-
-Testimonial photo credit
-<a href="https://unsplash.com/@samuelzeller?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Samuel Zeller</a>
