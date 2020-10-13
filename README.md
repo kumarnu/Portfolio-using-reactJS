@@ -1,6 +1,6 @@
 # LearnLive ReactJS Portfolio      
 <a>
-<img src= "resume_screenshot.png" width=800>
+<img src= "resume_screenshot.png" width=1100>
 </a></br>
 
 ## Description
