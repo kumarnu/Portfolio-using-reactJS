@@ -1,0 +1,167 @@
+{
+  "main": {
+    "name": "Nitish Kumar",
+    "occupation": "Lead Business Process Management Developer",
+    "description": "Versatile Senior Software Developer with more than 4 years of experience with production-level projects and interacting with international clients - The Hershey, Metro Systems, and Mondelez International",
+    "image": "nitish.jpg",
+    "bio": "My name is Nitish, I'm a Business Process Management Developer. Currently, I'm working at Surge Technology Solutions while also mentoring my colleagues. A self-directed leader with talent at cultivating a collaborative and supportive team environment. I enjoy being challenged and engaged with projects that require me to work beyond my comfort and knowledge set, as I get to explore and learn new languages with different development techniques which are important for growth of any professional like me as well as the success of any organisation.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "nitish.corporate94@gmail.com",
+    "address": {
+      "street": "333 Dominion Drive,",
+      "city": "Texas",
+      "state": "United States of America",
+      "zip": "77450"
+    },
+    "website": "https://learnwithnitish.wordpress.com/",
+    "resumedownload": "https://drive.google.com/file/d/15GggD9ay1wajahq2UdyIp4jnmGBnCGam/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/nitish.iiit/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/i-am-nitish-kumar/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ni30_daksh/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/kumarnu",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My proficiency in technologies that I used while developing production level applications",
+    "education": [
+      {
+        "school": "University of Cincinnati",
+        "degree": "Masters in Computer Science",
+        "graduated": "May 2020",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "International Institute of Information Technology, Pune",
+        "degree": "Bachelors in Computer Engineering",
+        "graduated": "May 2016",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Surge Technology",
+        "title": "BPM(JBPM/Camunda/Appian) Lead Developer",
+        "years": "May 2020 - Present",
+        "description": "Spring Boot, JDBC, Hibernate, node.js, React, Microservices, MySQL, REST APIs, Maven, JPA, CI/CD using Jenkins, AWS EC2, JBPM."
+      },
+      {
+        "company": "Infosys Limited",
+        "title": "Senior Systems Engineer",
+        "years": "Oct 2016 - July 2019",
+        "description": "SAP, Spring Boot, Hibernate, Microservices, MySQL, REST APIs, Maven, JPA, Jenkins, CI/CD, node.js, React"
+      },
+      {
+        "company": "Gucons Pvt. Ltd.",
+        "title": "Java Intern",
+        "years": "May 2014 - August 2016",
+        "description": "Spring Boot, Spring MVC, JDBC, Hibernate, Microservices, MySQL, node.js"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "SAP",
+        "level": "80%"
+      },
+      {
+        "name": "Node.js",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "Business Process Management(JBPM/Camunda/Appian)",
+        "level": "90%"
+      },
+      {
+        "name": "Databases (MySQL, SQL, OracleDB, NoSQL)",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Macys, United States",
+        "category": "Completed project in two phases(BPM, Java, RESTful APIs, Microservices, MySQL, ReactJS, NodeJS)",
+        "image": "macysLogo.gif",
+        "url": "https://www.macys.com/"
+      },
+      {
+        "title": "Mondelez International",
+        "category": "Designed, developed, deployed, and migrated 32 applications in 6 months (PostGresql, ExpressJS, ReactJS, NodeJS)",
+        "image": "MDLZlogo.JPG",
+        "url": "https://www.mondelezinternational.com/"
+      },
+      {
+        "title": "Hershey",
+        "category": "Completed the project with client client satisfaction",
+        "image": "Hershey_logo.png",
+        "url": "https://www.hersheys.com/en_us/home.html"
+      },
+      {
+        "title": "Metro Systems",
+        "category": "Supported the team with code debugging and resolving client issues",
+        "image": "metro-systems-logo.png",
+        "url": "https://www.metrosystems.ro/en"
+      },
+      {
+        "title": "Amazon Clone",
+        "category": "Cloned Amoazon's Shopping website in 5 days using React,Google Cloud, node.js, Stripe",
+        "image": "amazon.jpeg",
+        "url": "https://clone-23ff5.web.app/"
+      },
+      {
+        "title": "Facebook Clone",
+        "category": "Cloned Facebook website in 1 day using React,Google Cloud, node.js",
+        "image": "facebook.jpg",
+        "url": "https://facebook-by-nitish.web.app/"
+      },
+      {
+        "title": "COVID-19 Tracker",
+        "category": "It tracks the total number of COVID cases in the worls and each country.",
+        "image": "corona.png",
+        "url": "https://covid-tracker-by-nitish.web.app/"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Nitish has been a very hard working and dependable consultant. He understands the business requirements and goes extra mile to deliver it. Highly professional and great value add to any team.",
+        "user": "Pankaj Singh, IBP Practice Director at BirlaSoft/ Ex-Principal Consultant at Infosys"
+      },
+      {
+        "text": "I had worked with Nitish in Infosys for more than 1 year, I was senior to him. I had the pleasure of working with him. His dedication toward his work was outstanding and he always had positive attitude toward new learning. He is dedicated, self-motivated, trustworthy, independent and very capable. Nitish would be an asset to any Company.",
+        "user": "Sonali Sardar, Technology Lead at Infosys/Ex-Consultant at IBM"
+      }
+    ]
+  }
+}
