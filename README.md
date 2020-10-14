@@ -8,7 +8,7 @@ This is a personal resume website created using reactJS.
 
 ## Make it Your Own!
 #### PREREQUISITES:
-- Install VS code from <a href="https://code.visualstudio.com/"HERE</a>
+- Install VS code from <a href="https://code.visualstudio.com/">HERE</a>
 - Sign up for a Netlify account <a href='https://www.netlify.com'>HERE</a>
 - Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
 #### PROCEDURE:
